@@ -622,7 +622,8 @@ opacity: 0.7;
     font-weight: var(--font-medium);
 }
 .contact-subtitle{
-    font-size: 16px;
+    
+    font-size: 20px;
     color: var(--text-color-light);
 }
 
@@ -778,16 +779,5 @@ opacity: 0.7;
   }
 
 
-  
 
-
-
-
-
-
-#msg{
-    color:var(--first-color-alt); 
-    margin-top:-10px ;
-    display: block;
-}
 
