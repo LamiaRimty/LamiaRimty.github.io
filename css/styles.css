@@ -184,9 +184,10 @@ h3 ,p,.section-subtitle{
 
 #header-img{
     margin-bottom: 10px;
-    border-radius: 50%;
+    border-radius: 50%; 
     width: 100px;
     height: 100px;
+  
 }
 
 
